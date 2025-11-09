@@ -1,6 +1,6 @@
 ## Hi, I’m Otioh Corianne Konan 👋
 
-**AI & Full‑Stack Developer | Cyberdefense Minor**  
+**AI & Full‑Stack Developer | Artificial Intelligence Major | Cyberdefense Minor**  
 Haskell · Java · Python · Web Dev · AI/ML · Robotics
 
 From building command‑line database systems to web apps and robotics assistants, I thrive on turning ideas into working code and autonomous machines.
