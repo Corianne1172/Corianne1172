@@ -17,19 +17,20 @@ From building command‑line database systems to web apps and robotics assistant
 ---
 
 ## 🚀 Selected Projects  
-- **Portfolio‑Website** – My personal web presence built with HTML, CSS, Bootstrap.  
+- **Portfolio‑Website** – My personal web presence built with HTML, CSS, Bootstrap.
+- **BiteBoxd** - A full-stack recipe tracking platform inspired by Letterboxd.
 - **Real Estate App** – Java + PostgreSQL CLI/Backend system for property booking & management.  
 - **ProFeed** – Full‑stack web app: student & professor dashboards, file uploads, AI‑powered feedback summaries.  
-- **Simple‑Parser** – Haskell parser implementation for IMP language (no built‑in list functions).  
 - **AI Robotics Assistant** – Club project: voice command recognition, object‑pickup via CV, autonomous movement.  
 - Plus many more contributions and experiments.
 
 ---
 
-## 🌱 I’m currently diving into  
-- Integrating AI & ML into robotics systems (speech + vision + actuation)  
-- Secure web development and cyberdefense applications  
-- Contributing to open‑source & building maintainable, reusable code bases  
+## 🔧 Currently Working On
+- 🚀 Deploying **BiteBoxd** (Docker + hosting)
+- 🎨 Adding a modern UI to my Tic Tac Toe project
+- 🏠 Improving the Real Estate Management App
+- 🐧 Learning Linux system fundamentals and tooling
 
 ---
 
