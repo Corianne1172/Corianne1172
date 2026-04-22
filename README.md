@@ -1,36 +1,35 @@
 ## Hi, I’m Otioh Corianne Konan 👋
 
-**Software & Web Developer | Java | Backend Systems | Security-minded**  
+**AI & Software Developer | Python · Java · LLMs · Agentic System | Security-minded**  
 Artificial Intelligence Major · Cyberdefense Minor
 
-I enjoy building **clean, functional software** — from backend systems and full-stack web apps to tools that prioritize reliability and security. While my academic background is in AI, my current focus is on **software engineering, web development, and backend design**, with a strong interest in how security fits into every layer of a system.
+I build intelligent systems and full-stack applications — from attention models and fine-tuned LLMs to backend APIs and data pipelines. I care about making things that are both technically rigorous and actually useful.
 
 ---
 
 ## Skills & Technologies  
 **Languages:** Java · Python · JavaScript · SQL · Haskell  
 **Web / UI:** HTML · CSS · Bootstrap · React  
-**Backend / APIs:** REST APIs · FastAPI · CLI Applications  
-**Databases:** PostgreSQL · Schema Design  
-**Tools:** Git · GitHub · Linux · VS Code  
-**Focus Areas:** Software Design · Backend Logic · Secure Development Practices  
+**AI / ML:** PyTorch · HuggingFace (PEFT/transformers) · LangChain · OpenAI API · Claude API · NumPy · Pandas · scikit-learn
+**Web / Backend:** FastAPI · Flask · React · REST APIs · Node.js · Express
+**Databases:** PostgreSQL · SQL Server
+**Tools:** Git · GitHub · Streamlit · Google Colab · VS Code · Linux
 
 ---
 
 ## Selected Projects  
-- **BiteBoxd** – Full-stack recipe tracking web app using React, REST APIs, and PostgreSQL.  
-- **Real Estate Management App** – Java + PostgreSQL CLI/backend system for booking and reservation logic.  
-- **ProFeed** – Web application with student & professor dashboards, file uploads, and AI-assisted feedback summaries.  
-- **Portfolio Website** – Personal website built with HTML, CSS, and Bootstrap.  
-- **Tic Tac Toe (MiniMax)** – Algorithmic game logic with decision-making strategies.
+- **[CTA Intelligent Transit Assistant](https://github.com/Corianne1172/cta-ai-assistant)** – Multihead self-attention transformer + fine-tuned Llama LLM to predict Chicago L train delays and explain them conversationally. Deployed on Streamlit with live CTA API integration.
+- **[Sentiment Classifiers from Scratch](https://github.com/Corianne1172/CS481--amazon-reviews-sentiment-analysis)** – Naïve Bayes and kNN built with no ML libraries on 525K Amazon reviews. 91.6% accuracy, AUC 0.91.
+- **[BiteBoxd](https://github.com/Corianne1172/biteboxd)** – Full-stack recipe platform with FastAPI, PostgreSQL, and React, modeled for future recommendation systems.
+- **[ProFeed](https://github.com/Corianne1172/ProFeed)** – AI-assisted academic feedback tool using LangChain RAG pipelines and OpenAI API.
+- **[Real Estate App](https://github.com/Corianne1172/real-estate-app)** – Java + PostgreSQL CLI backend system for booking and reservation logic.
 
 ---
 
 ## Currently Working On
-- Improving **BiteBoxd** backend architecture and API design  
-- Refining UI/UX across web projects  
-- Strengthening Java-based systems and backend logic  
-- Expanding Linux and systems-level tooling knowledge  
+- Leetcode grind 💀
+- Exploring agentic AI systems and LLM pipelines
+- Strengthening Java and backend fundamentals
 
 ---
 
