@@ -27,7 +27,7 @@ I build intelligent systems and full-stack applications — from attention model
 ---
 
 ## Currently Working On
-- Leetcode grind 💀
+- Leetcode grind
 - Exploring agentic AI systems and LLM pipelines
 - Strengthening Java and backend fundamentals
 
