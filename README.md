@@ -18,6 +18,7 @@ I build intelligent systems and full-stack applications — from attention model
 ---
 
 ## Selected Projects  
+- **[AI Career Navigator](https://github.com/Corianne1172/ai-career-navigator)** – Resume-to-job matching tool with ESCO-based skill extraction, semantic matching, composite scoring, and LLM-generated gap analysis and interview prep. [Live demo](https://ai-career-navigator-djx7gzrrwru9rrc833mmzt.streamlit.app)
 - **[CTA Intelligent Transit Assistant](https://github.com/Corianne1172/cta-ai-assistant)** – Multihead self-attention transformer + fine-tuned Llama LLM to predict Chicago L train delays and explain them conversationally. Deployed on Streamlit with live CTA API integration.
 - **[Sentiment Classifiers from Scratch](https://github.com/Corianne1172/CS481--amazon-reviews-sentiment-analysis)** – Naïve Bayes and kNN built with no ML libraries on 525K Amazon reviews. 91.6% accuracy, AUC 0.91.
 - **[BiteBoxd](https://github.com/Corianne1172/biteboxd)** – Full-stack recipe platform with FastAPI, PostgreSQL, and React, modeled for future recommendation systems.
