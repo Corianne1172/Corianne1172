@@ -10,9 +10,9 @@ I build intelligent systems and full-stack applications — from attention model
 ## Skills & Technologies  
 **Languages:** Java · Python · JavaScript · SQL · Haskell  
 **Web / UI:** HTML · CSS · Bootstrap · React  
-**AI / ML:** PyTorch · HuggingFace (PEFT/transformers) · LangChain · OpenAI API · Claude API · NumPy · Pandas · scikit-learn
-**Web / Backend:** FastAPI · Flask · React · REST APIs · Node.js · Express
-**Databases:** PostgreSQL · SQL Server
+**AI / ML:** PyTorch · HuggingFace (PEFT/transformers) · LangChain · OpenAI API · Claude API · NumPy · Pandas · scikit-learn  
+**Web / Backend:** FastAPI · Flask · React · REST APIs · Node.js · Express  
+**Databases:** PostgreSQL · SQL Server  
 **Tools:** Git · GitHub · Streamlit · Google Colab · VS Code · Linux
 
 ---
